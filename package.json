@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/zolbooo/node-adminbro-example/issues"
   },
-  "homepage": "https://github.com/zolbooo/node-adminbro-example#readme"
+  "homepage": "https://github.com/zolbooo/node-adminbro-example#readme",
+  "dependencies": {
+    "@admin-bro/express": "^3.1.0",
+    "admin-bro": "^4.0.1",
+    "express": "^4.17.1",
+    "tslib": "^2.2.0"
+  }
 }
